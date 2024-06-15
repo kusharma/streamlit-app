@@ -1,8 +1,8 @@
 # Streamlit app to view renewable energy sources in switzerland
 
-This Streamlit app visualizes energy production data across Switzerland. It provides interactive tools to explore the distribution and sources of renewable energy in different cantons and over different years.
+This Streamlit app visualizes energy production data across Switzerland. It provides interactive tools to explore the distribution and sources of renewable energy in different cantons and over different years. Check the steamlit app below:
 
-[Streamlit App](https://app-app-k9pdqxj4hzdawnurqfxtbl.streamlit.app/)
+[Streamlit App on distribution of renewable energy sources in CH](https://app-app-k9pdqxj4hzdawnurqfxtbl.streamlit.app/)
 
 ## Features
 
