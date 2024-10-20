@@ -1,4 +1,4 @@
-![Streamlit App](data/DALL·E 2024-10-20 22.10.58 - A user-friendly Streamlit app interface displaying various renewable energy sources in Switzerland. The app includes clean and modern charts visualizi.webp)
+![Streamlit App](data/DALLE_RenewableEnergy_CH.png)
 
 # Streamlit app to view renewable energy sources in switzerland
 
